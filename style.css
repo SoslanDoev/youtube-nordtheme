@@ -1,0 +1,198 @@
+div#content {
+    background: #3B4252 !important;
+    color: white !important;
+}
+
+ytd-item-section-renderer.style-scope.ytd-section-list-renderer {
+    background: #3B4252 !important;
+}
+
+ytd-playlist-sidebar-renderer.style-scope.ytd-browse {
+    background: #3B4252 !important;
+}
+
+ytd-app {
+    background: #3B4252 !important;
+}
+
+div#secondary {
+    /* background: #2E3440 !important; */
+    background: #3b4252 !important;
+}
+
+tp-yt-paper-button#show-more-button {
+    background: #2e3440 !important;
+}
+
+li.sbsb_c.gsfs:hover {
+    background-color: #2e3440 !important;
+}
+
+ytd-alert-with-button-renderer.style-scope.ytd-browse {
+    background: #3b4252 !important;
+}
+
+div#primary {
+    background: #3b4252 !important;
+}
+
+tp-yt-paper-listbox#menu {
+    background: #2e3440 !important;
+}
+
+ytd-settings-sidebar-renderer.style-scope.ytd-browse {
+    background: #3b4252 !important;
+}
+
+.flex-container.style-scope.ytd-compact-station-renderer {
+    background: #2E3440 !important;
+}
+
+div#report-history-modal-body {
+    background: #2E3440 !important;
+}
+
+ytd-topic-channel-details-renderer.style-scope.ytd-carousel-header-renderer.grid.grid-disabled {
+    background: #2E3440 !important;
+}
+div#header {
+    background: #3b4252 !important;
+}
+
+div#contents {
+    background: #3b4252 !important;
+}
+
+
+div#report-history-modal-footer {
+    background: #2E3440 !important;
+}
+
+*{
+    color: white !important;
+}
+
+tp-yt-paper-listbox#items {
+    background: #3b4252 !important;
+}
+
+input#search {
+    color: white !important;
+    z-index: 500;
+    position: relative;
+}
+
+ytd-mini-guide-renderer.style-scope.ytd-app {
+    background: #2E3440 !important;
+}
+
+div#guide-content {
+    background: #3B4252 !important;
+}
+
+a#destination-content-root {
+    background: #2e3440 !important;
+}
+
+div#items {
+    background: #3B4252 !important;
+}
+
+.header.style-scope.ytd-playlist-panel-renderer {
+    background: #3B4252 !important;
+}
+
+form#search-form {
+    background: #3B4252 !important;
+}
+
+input {
+    color: white !important;
+}
+
+div#search-container {
+    background: #3B4252 !important;
+    color: white !important;
+}
+
+#search-icon-legacy {
+    background: #2e3440 !important;
+    border-left: none !important;
+}
+
+#search-form {
+    border: 1px solid white !important;
+    height: 38px !important;
+}
+
+#left-arrow.yt-chip-cloud-renderer, #right-arrow.yt-chip-cloud-renderer {
+    display: block !important;
+}
+
+#right-arrow-button {
+    background: #2E3440 !important;
+}
+
+#channel-header {
+    background: #3B4252 !important;
+}
+
+#tabs-inner-container {
+    background: #3b4252 !important;
+}
+
+ytd-browse.style-scope.ytd-page-manager {
+    background: #3b4252 !important;
+}
+
+#left-arrow-button {
+    background: #2e3440 !important;
+}
+
+#voice-search-button {
+    display: none !important;
+}
+
+#chips-wrapper {
+    display: none !important;
+}
+
+.sbfl_b {
+    background: #2E3440 !important;
+}
+
+#video-preview-container {
+    background: #3B4252 !important;
+} 
+    
+.sbdd_b .sbsb_a {
+    background-color: #3B4252;
+}
+
+ytd-mini-guide-entry-renderer.style-scope.ytd-mini-guide-renderer {
+    background: #2E3440 !important;
+}
+
+div#scroll-container {
+    background: #3B4252 !important;
+}
+
+ytd-masthead#masthead {
+    background: #2E3440 !important;
+}
+
+yt-confirm-dialog-renderer.style-scope.ytd-popup-container {
+    background: #3B4252 !important;
+}
+
+div#info-bar {
+    background: #3B4252 !important;
+}
+
+ytd-active-account-header-renderer.style-scope.ytd-multi-page-menu-renderer {
+    background: #3B4252 !important;
+}
+
+yt-multi-page-menu-section-renderer.style-scope.ytd-multi-page-menu-renderer {
+    background: #3B4252 !important;
+}
